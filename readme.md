@@ -1,4 +1,4 @@
-# Welcome to Digital Technology (NCEA LEVEL 1) at Wainuiomata High School
+# Welcome to Digital Technology (NCEA LEVEL 2) at Wainuiomata High School
 
 This repository contains all the resources for NCEA Digital Technologies at Wainuiomata High School.   
 
